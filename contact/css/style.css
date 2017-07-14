@@ -1,0 +1,4 @@
+.p { padding:20px !important }
+.bdr { border: 1px solid #eee; box-shadow: 0 0 21px -5px rgba(0,0,0,0.3);}
+.w50 { width:50%!important; padding:30px; margin:0 auto;  }
+input[type="text"],input[type="email"],input[type="tel"]{background-color:#FFFFFF;border:1px solid #5ec2eb;box-shadow:inset 0px 20px 15px -20px #d6d6d6;-moz-box-shadow:inset 0px 20px 15px -20px #d6d6d6;-webkit-box-shadow:inset 0px 20px 15px -20px #d6d6d6;font-size:12px;padding:2px; }
